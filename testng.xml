@@ -4,6 +4,7 @@
 	<test name="PizzaHut">
 	<classes>
 			<class name="pizzahutscript.PizzaHut">
+				
 			</class>
 		</classes>
 
