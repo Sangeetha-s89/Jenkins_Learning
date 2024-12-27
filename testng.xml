@@ -3,8 +3,7 @@
 <suite name="pizzahutsuite">
 	<test name="PizzaHut">
 	<classes>
-		<class name="pizzahutscript.PizzaHut">
-				
+		<class name="pizzahutscript.PizzaHut">		
 		</class>
 		</classes>
 	
